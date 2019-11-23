@@ -1,0 +1,7 @@
+What is a program
+A program is a set of instructions that the computer executes.
+A programming language is a language which the computer understands. It is just like any other language with its own syntax and constructs. The programmer uses it to make the computer follow his/her instructions.
+
+Programming is instructing the computer by means of a programming language to perform certain tasks for your desired output. You may have heard the language names already - C/C++, Java, Python, PHP, Javascript and many others. For many purposes - good grasp of certain programming languages are enough even without a Computer Science Degree. So, let not anybody tell you - you cannot become a programmer without a degree, but certainly the theories of computer science help if you know them.
+
+Computer Science is the study of computers and computational systems. It is the scientific and practical approach to computation and its applications. The more you know the theories of this field, the better programmer you become. As a result, you write more efficient codes which helps to run a program faster using less computer resources. But to start off, absolute passion and absolute hard-work is enough to become a reasonably good programmer in the early stages.

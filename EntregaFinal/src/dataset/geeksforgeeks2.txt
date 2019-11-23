@@ -1,0 +1,78 @@
+Python designed by Guido van Rossum at CWI has become a widely used general-purpose, high-level programming language.
+
+Prerequisites:
+
+
+
+Knowledge of any programming language can be a plus.
+
+Reason for increasing popularity
+
+Emphasis on code readability, shorter codes, ease of writing
+Programmers can express logical concepts in fewer lines of code in comparison to languages such as C++ or Java.
+Python supports multiple programming paradigms, like object-oriented, imperative and functional programming or procedural.
+There exists inbuilt functions for almost all of the frequently used concepts.
+Philosophy is “Simplicity is the best”.
+LANGUAGE FEATURES
+
+Interpreted
+There are no separate compilation and execution steps like C and C++.
+Directly runthe program from the source code.
+Internally, Python converts the source code into an intermediate form called bytecodes which is then translated into native language of specific computer to run it.
+No need to worry about linking and loading with libraries, etc.
+Platform Independent
+Python programs can be developed and executed on multiple operating system platforms.
+Python can be used on Linux, Windows, Macintosh, Solaris and many more.
+Free and Open Source; Redistributable
+High-level Language
+In Python, no need to take care about low-level details such as managing the memory used by the program.
+Simple
+Closer to English language;Easy to Learn
+More emphasis on the solution to the problem rather than the syntax
+Embeddable
+Python can be used within C/C++ program to give scripting capabilities for the program’s users.
+Robust:
+Exceptional handling features
+Memory management techniques in built
+Rich Library Support
+The Python Standard Library is vary vast.
+Known as the “batteries included” philosophy of Python ;It can help do various things involving regular expressions, documentation generation, unit testing, threading, databases, web browsers, CGI, email, XML, HTML, WAV files, cryptography, GUI and many more.
+Besides the standard library, there are various other high-quality libraries such as the Python Imaging Library which is an amazingly simple image manipulation library.
+Currently, there are two versions of Python available Python 2 and Python 3. Many beginners must be wondering with which version of Python they should start. My answer to this question is usually something along the lines “just go with the version your favourite tutorial is written in, and check out the differences later on.”
+
+Softwares making use of Python
+
+Python has been successfully embedded in a number of software products as a scripting language.
+
+GNU Debugger uses Python as a pretty printer to show complex structures such as C++ containers.
+Python has also been used in artificial intelligence
+Python is often used for natural language processing tasks.
+Current Applications of Python
+
+A number of Linux distributions use installers written in Python example in Ubuntu we have the Ubiquity
+Python has seen extensive use in the information security industry, including in exploit development.
+Raspberry Pi– single board computer uses Python as its principal user-programming language.
+Python is now being used Game Development areas also.
+Pros:
+
+Ease of use
+Multi-paradigm Approach
+Cons:
+
+
+Slow speed of execution compared to C,C++
+Absence from mobile computing and browsers
+For the C,C++ programmers switching to python can be irritating as the language requires proper indentation of code. Certain variable names commonly used like sum are functions in python. So C, C++ programmers have to look out for these.
+Industrial Importance
+
+Most of the companies are now looking for candidates who know about Python Programming. Those having the knowledge of python may have more chances of impressing the interviewing panel. So I would suggest that beginners should start learning python and excel in it.
+
+GeeksforGeeks is very soon going to introduce programming in Python too.
+
+Please write comments if you find anything incorrect, or you want to share more information about the topic discussed above.
+
+Article By Mudit Maheshwari:mudit
+
+A 3rd year B.Tech IT student from VIT University, Vellore having keen interest in coding , learning about new technology and developing softwares . Besides being passionate about coding, he also loves playing guitar and singing. Currently staying in Chennai. You can reach him at mudit94@gmail.com.
+
+If you also wish to showcase your blog here,please see GBlog for guest blog writing on GeeksforGeeks.
