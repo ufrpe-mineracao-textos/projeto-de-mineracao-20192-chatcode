@@ -7,7 +7,10 @@ chatterBot = ChatterBot()
 
 
 def start(bot, update):
-    response_message = "____Pytalks____-> Howdy there, cowboy!"
+    response_message = "Welcome! Are you completely new to programming? If not then we presume you will be looking" \
+                       " for information about why and how to get started with Python. Fortunately an experienced" \
+                       " programmer in any programming language (whatever it may be) can pick up Python very quickly." \
+                       " It's also easy for beginners to use and learn, so jump in!"
     bot.send_message(
         chat_id=update.message.chat_id,
         text=response_message
